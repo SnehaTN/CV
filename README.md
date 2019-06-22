@@ -35,6 +35,7 @@
 <p> Email: <a href="snehatn7@gmail.com"> link </a> </p>
 <p> Phone No.: 7892656623 </p>
 <p> Place: Tumkur </p>
+</td>
 </tr>
 </table>
 <hr>
