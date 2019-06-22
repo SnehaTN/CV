@@ -1,7 +1,7 @@
 <html>
 <head>
 <title> RESUME </title>
-<link rel="stylesheet" href="sneharesume.css" type="text/css">
+<link rel="stylesheet" href="style.css" type="text/css">
 <style>
 #customers {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
