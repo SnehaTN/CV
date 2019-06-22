@@ -1,0 +1,25 @@
+html {
+  border-style: groove;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+body {
+  color:white;
+  background: url(sneharesume.jpg);
+  background-repeat: no-repeat;
+  background-size: 1600px 1350px;
+}
+
+body {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
+}
+
+p {
+  font-style: italic;
+}
