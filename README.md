@@ -30,7 +30,7 @@ my CV
 <table cellspacing="40">
 <tr>
 <td>
-<img src="image.png" alt="Sneha's Profile Photo" height="100" width="100">
+<img src="myphoto.png" alt="Sneha's Profile Photo" height="100" width="100">
 </td>
 <td>
 <h2> TN SNEHA </h2> 
