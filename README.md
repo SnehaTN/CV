@@ -1,5 +1,3 @@
-# CV
-my CV
 <html>
 <head>
 <title> RESUME </title>
